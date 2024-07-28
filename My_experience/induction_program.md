@@ -117,7 +117,7 @@ On our Fifth Day of College there was DEPARTMENT VISIT organised by College. Fir
 - We had our second class class of UHV
 - WEe had peers intractions about college
 
-### List of classes attended
+### LIST OF CLASSE ATTENDED
 
 **1. UHV (UNIVERSAL HUMANS VALUE)**
 
@@ -168,12 +168,15 @@ He discussed “The Power of Service: NSS and Nation Building,” highlighting h
 - Personality Development.
 
 ##### BENIFITS OF NSS
+
 - It helps in acquiring leadership qualities and democratic attitude.
 - It developer a sense of involvement in the task of nation building.
 - It helps in developing positive attitude, self-confidence, courage & patience.
 
 # DAY 8 (19-07-24)
 
+- They told us about how to bheave in cooprate world and in interview
+- they showed us different expriments of physics
 ### GUEST / SPEAKER OF DAY 8
 
 **1. ER. KANWARDEEP KALRA**
@@ -199,7 +202,97 @@ She said that by 2030 onwards it is predicted that 63% of jobs will be comparmis
 She also guided us about essential soft skills .Name of essential soft skills are
 According to a survey it took just 7 seconds to make first impresion
 
-## DR. JASWINDER SINGH
+**2. DR. JASWINDER SINGH**
 
 This session with Jasvinder Sir was both engaging and entertaining. He started by asking the meaning of “Sat Sri Akal.” Although he isn’t a magician by profession, he performed magic tricks and explained the science behind them. He demonstrated the importance of balance by making a table and taught us how to count the bones in the human body he said there are 26 bones in our each feet,27 bones in our each hand ,28 bones in our face,skull,total 52 bones in our chest,5 bones in each arm,5 bones in each leg
+
+![image](https://kusum4coding.github.io/skelton.png)
+
+he recalled some basic science facts in fascinated way ..as…hairs are insulator, they taught us new method of learning table of 8, 9 and also taught us the techneque to make table of 118 i enjoyed the session verry much…
+Dr. Jaswinder Singh , the incharge of IAPT and a Shiksha Ratan awardee , is a remarkable personality. He explained that everything in the world is connected to mathematics and provided clear examples. He introduced us to the concepts of induction and conduction, which can seem tough and boring in class, but he made them easy and enjoyable.
+
+# DAY 9 (22-07-2024)
+
+- they guided us how to find your aim in life and how to fullfill it
+- they told us how to be consitent and how to focus on future
+
+### GUEST / SPEAKER OF DAY 9
+
+**1. DR. SB SINGH**
+
+Sir asked us to write down about your self like your name your fathers name your mothers name your senior secondary school name and your dream for which you come in college and what will we do to complete our dreams and what we expect from college after four years these things will make us introduced by our truth because we cant tell lie to ourselves. They also teach us very helpful life lessons.
+
+**2. DR. PUSHPINDER SINGH**
+
+This session with Sir is very informative and helpful. Sir shared some valuable life lessons with us. He explained that to succeed, we need to be consistent and innovative. If we have a strong desire to achieve something, we can reach our goals with focus and concentration. He used the example of a woodpecker, which concentrates on one spot of a tree until it makes a hole. Sir also emphasized the importance of believing in ourselves and having faith in God. He said that humility is essential for survival. For instance, a bamboo tree bends during floods and survives, while big trees that don’t bend often fall. This shows that being flexible helps us get through tough times.
+
+# DAY 10 (23-05-2024)
+
+- we leraned about AI and ML
+- we also learned about UHV
+
+### LIST OF CLASSE ATTENDED
+
+**1. PEER INTERACTION TECHINAL**
+
+In this classes our seniors form it and cse department told us about diiffernet this related to AL and ML . Thay told us how to ue chat gpt properly more specifically hw to write a promt . They also guided us about the college curiculum and taught us basics of excel whch includeds different functions and template
+
+**2. UHV (UNIVERSAL HUMAN VALUES)**
+
+This was basically a comunication class in which our proffesser tol us how to comunicate properly by chossing right words and to tell a person about his fault without hearting him/her. she also told us how to introduce ourself and tounght us new pharses like being moon amoung the stars.
+
+# DAY 11 (24-05-2024)
+
+- they told us that everything that happens is for good only and never be depressed in your life 
+- they told us about center of Multifaceted Learning
+
+### GUEST / SPEAKER OF DAY 11
+
+**1. MR. GAURAVDEEP SINGH**
+
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fgauravdeep_s&psig=AOvVaw0n7sziqaG9G58KYWrpn3hV&ust=1722236409765000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICNyeeUyYcDFQAAAAAdAAAAABAE)
+
+He was very interting person . he told us about his difficulities in life and how he overcome it by staying postive . he told us that everthing happes foe good and nerve be depressesed in life . he was truky a inspriation for me as in very young age he statred helpingthe society in different ways . he stated IOC( Initiators of Change) a orgninisation which have more that 1000 active members in punjab taht help needy people and society by teaching the kid and many more. 
+
+**2. ER. LAKHVEER SINGH**
+
+Following the motivational talk, we had the privilege of hearing from Er. Lakhveer Singh, the Coordinator of the Center of Multifaceted Learning (CML). He provided a comprehensive overview of CML’s mission and the various resources available to us as students. The briefing was an eye-opener, showcasing the diverse learning opportunities we have access to, ranging from technical skills to personal development.
+
+# DAY 12 (25-07-2024)
+
+- we had our firt chemistry class
+- we had our last uhv class
+
+### LIST OF CLASSES ATTENDED
+
+**1. CEHMISTRY CLASS**
+
+we had our first chemistry class in which the proffeser told us about criculum of chemistry and chemistry lab and marks distribution of whole semister . she told us about different topics to be studided in the whole semister.
+
+**2. UHV CLASS**
+
+In this class we had a group dissicuion of differnt uhv topics tounght in our pervious classes.
+
+# DAY 13 (26-07-2024)
+
+- they told us about differnt techinques of meditaion
+- we had closing ceromny of student induction program
+
+### GUEST / SPEAKER OF DAY 13
+
+**1. DR. KANWALPREET KAUR BHATT**
+
+she is a meditaion consellor & homeopathic Practitioner . she told us how to meditate and connect with god according to our age . she showed us a video related to meditaion and told us different technique about meditation
+
+##### VALEDITCORY 
+
+On 26 july we had our valedictory . The members of cultulal commitee had a function planed to entertain us . Different students of 1st year took part in different compitations like dance, singing, poster making , photography etc.
+Dance and singing was very entertaning of us .
+
+# SUMMARY 
+
+This was a diffeent experience a we had no idea about college but this induction program 
+
+
+
 
