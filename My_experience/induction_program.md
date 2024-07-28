@@ -250,7 +250,7 @@ This was basically a comunication class in which our proffesser tol us how to co
 
 **1. MR. GAURAVDEEP SINGH**
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fgauravdeep_s&psig=AOvVaw0n7sziqaG9G58KYWrpn3hV&ust=1722236409765000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICNyeeUyYcDFQAAAAAdAAAAABAE)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7Fahhl5DAksL0un7eauEX1spUeY21qr3Tg&s)
 
 He was very interting person . he told us about his difficulities in life and how he overcome it by staying postive . he told us that everthing happes foe good and nerve be depressesed in life . he was truky a inspriation for me as in very young age he statred helpingthe society in different ways . he stated IOC( Initiators of Change) a orgninisation which have more that 1000 active members in punjab taht help needy people and society by teaching the kid and many more. 
 
@@ -291,7 +291,9 @@ Dance and singing was very entertaning of us .
 
 # SUMMARY 
 
-This was a diffeent experience a we had no idea about college but this induction program 
+This was a diffeent experience as we had no idea about college but this induction program helped me to know about GNDEC and about different societies and culbs . We ahd very motivationtal speakers which motivated us about different things and taunght us life changing things . I am we glad to be a part of this induction progam and  guru nanak dev engineering college.
+
+### THANK YOU 
 
 
 
