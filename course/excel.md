@@ -2,7 +2,7 @@
 
 ## MY CERTIFICATE 
 
-![excel]("C:\Users\nares\Desktop\excel.jpeg")
+![excel](https://github.com/user-attachments/assets/c94c1ab6-abdf-4ffc-bfe0-824bfc02037b)
 
 ## MY EXPERIENCE IN COURSE
 
