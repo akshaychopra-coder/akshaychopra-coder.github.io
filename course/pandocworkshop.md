@@ -8,7 +8,7 @@ Pandoc is a command-line tool for converting files from one markup language to a
 
 On 19-07-2024 , Friday we embarked on a mission to demystify Pandoc, a versatile document conversion tool, through our third workshop. I was both excited and anxious about how the day would unfold, especially with the technical hiccups we faced right at the start.
 
-![photo]("C:\Users\nares\Desktop\wokshop.jpeg")
+![wokshop](https://github.com/user-attachments/assets/7352142f-d77d-4abd-9011-b7c580eeca41)
 
 ## THE TECHNICAL HURDLE
 
