@@ -198,7 +198,7 @@ According to a survey it took just 7 seconds to make first impresion
 
 This session with Jasvinder Sir was both engaging and entertaining. He started by asking the meaning of “Sat Sri Akal.” Although he isn’t a magician by profession, he performed magic tricks and explained the science behind them. He demonstrated the importance of balance by making a table and taught us how to count the bones in the human body he said there are 26 bones in our each feet,27 bones in our each hand ,28 bones in our face,skull,total 52 bones in our chest,5 bones in each arm,5 bones in each leg
 
-![image](https://kusum4coding.github.io/skelton.png)
+
 
 he recalled some basic science facts in fascinated way ..as…hairs are insulator, they taught us new method of learning table of 8, 9 and also taught us the techneque to make table of 118 i enjoyed the session verry much…
 Dr. Jaswinder Singh , the incharge of IAPT and a Shiksha Ratan awardee , is a remarkable personality. He explained that everything in the world is connected to mathematics and provided clear examples. He introduced us to the concepts of induction and conduction, which can seem tough and boring in class, but he made them easy and enjoyable.
@@ -242,7 +242,7 @@ This was basically a comunication class in which our proffesser tol us how to co
 
 **1. MR. GAURAVDEEP SINGH**
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7Fahhl5DAksL0un7eauEX1spUeY21qr3Tg&s)
+
 
 He was very interting person . he told us about his difficulities in life and how he overcome it by staying postive . he told us that everthing happes foe good and nerve be depressesed in life . he was truky a inspriation for me as in very young age he statred helpingthe society in different ways . he stated IOC( Initiators of Change) a orgninisation which have more that 1000 active members in punjab taht help needy people and society by teaching the kid and many more. 
 
