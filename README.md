@@ -44,5 +44,5 @@ in the blog section).
 
 2. LINKDIN - [AKSHAY CHOPRA](https://www.linkedin.com/in/akshay-chopra-203079319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-
+[excel](course/excel.md)
 
