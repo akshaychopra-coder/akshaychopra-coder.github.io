@@ -31,12 +31,11 @@ in the blog section).
 
 ## *MY BLOGS*
 
+[STUDENT INDUCTION PROGRAM](course/inductionprogram.md)
 
-1. [STUDENT INDUCTION PROGRAM](My_experience/induction_program.md)
+[EXCEL COURSE](course/excel.md)
 
-2. [EXCEL COURSE](My_experience/excel_couse.md)
-
-3. [WORKING IN WORKSHOP 3 PANDOC](My_experience/workshop3_pandoc.md)
+[WORKING IN WORKSHOP 3 PANDOC](course/pandocworkshop.md)
 
 ## *CONTACTS*
 
@@ -44,5 +43,5 @@ in the blog section).
 
 2. LINKDIN - [AKSHAY CHOPRA](https://www.linkedin.com/in/akshay-chopra-203079319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-[excel](course/excel.md)
+
 
