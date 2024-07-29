@@ -1,7 +1,5 @@
 # STUDENT INDUCTION PROGRAM 
 
-
-
 - My first day at GNDEC started with all the students assembling in the COLLEGE GURUDWARA SAHIB for kirtan and ardas
 - After that all students assembled in auditorium. The atmosphere was calm, and the stage was beautifully decorated.
 
@@ -276,7 +274,7 @@ In this class we had a group dissicuion of differnt uhv topics tounght in our pe
 
 she is a meditaion consellor & homeopathic Practitioner . she told us how to meditate and connect with god according to our age . she showed us a video related to meditaion and told us different technique about meditation
 
-##### VALEDITCORY 
+# VALEDITCORY 
 
 On 26 july we had our valedictory . The members of cultulal commitee had a function planed to entertain us . Different students of 1st year took part in different compitations like dance, singing, poster making , photography etc.
 Dance and singing was very entertaning of us .
